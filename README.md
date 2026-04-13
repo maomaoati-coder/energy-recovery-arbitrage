@@ -207,9 +207,9 @@ This repository is an open call to architects, physicists, and investors who see
 
 | Intent | Contact |
 |--------|---------|
-| 💼 Investment / Joint Development | [your@email.com] |
-| 📄 IP Licensing | [your@email.com] |
-| 🔬 Research Collaboration | [your@email.com] |
+| 💼 Investment / Joint Development | [maomaoati@email.com] |
+| 📄 IP Licensing | [maomaoati@email.com] |
+| 🔬 Research Collaboration | [maomaoati@email.com] |
 | 💬 Discussion | Open a GitHub Discussion |
 
 ---
