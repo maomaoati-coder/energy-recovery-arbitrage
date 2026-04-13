@@ -9,7 +9,6 @@
 
 <br/>
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-orange.svg?style=flat-square)](LICENSE)
 [![Prior Art](https://img.shields.io/badge/Prior%20Art-SHA256%20Timestamped-red?style=flat-square)](#prior-art)
 [![Architecture](https://img.shields.io/badge/Architecture-LengXin%20%E5%86%B7%E8%8A%AF-ff6600?style=flat-square)](https://github.com)
 [![Stars](https://img.shields.io/github/stars/yourusername/energy-recovery-arbitrage?style=flat-square&color=orange)](https://github.com)
@@ -216,9 +215,11 @@ This repository is an open call to architects, physicists, and investors who see
 
 ## License
 
-**CC BY-NC-ND 4.0** with reserved commercial rights.
+© 2026 Mao Guanghui All Rights Reserved
 
-You may view, cite, and reference this work with attribution. You may not reproduce, modify, or use it commercially without written authorization from the author.
+MGOVL v2.0 — Mao Guanghui Open View License
+
+https://github.com/maomaoati-coder/energy-recovery-arbitrage
 
 See [LICENSE](LICENSE) for full terms.
 
